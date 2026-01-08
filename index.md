@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: frontpage
+layout: Home
 nav_order: 1
 ---
 
