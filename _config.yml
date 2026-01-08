@@ -13,3 +13,4 @@ defaults:
       type: "pages"    # markdown-sider
     values:
       layout: "default"
+      has_toc: "false" # kommentar: fjerne 'Table of contents'
