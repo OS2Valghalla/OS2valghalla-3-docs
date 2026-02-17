@@ -14,3 +14,5 @@ defaults:
     values:
       layout: "default"
       has_toc: false # kommentar: fjerne 'Table of contents'
+
+color_scheme: custom
