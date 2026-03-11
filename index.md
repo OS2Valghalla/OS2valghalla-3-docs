@@ -1,8 +1,19 @@
 ---
 title: OS2valghalla
 layout: home
+nav_order: 1
+has children: false
 ---
 
+# Viden om OS2valghalla
+Her kan du finde vejledninger om brugen af OS2valghalla. De er udarbejdet af koordinationsgruppen, som også har til opgave at vedligeholde dem.
+Mangler du en vejledning til noget, så skriv til <os2valghalla@os2.eu>
+Find mere information om OS2valghalla, og hvordan man tilslutter sig samarbejdet om produktet på [OS2's hjemmeside](https://www.os2.eu/os2valghalla).
+
+
+
+!-->
+Udkommenteret:
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
@@ -33,3 +44,4 @@ If you want to maintain your docs in the `docs` directory of an existing project
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+-->
