@@ -6,9 +6,9 @@ has_children: false
 ---
 
 # Implementering af OS2valghalla
-```
-På denne side kan du finde brugbare implementeringsoplysninger og vejledninger til opsætning af OS2valghalla i jeres kommune.
-```
+
+<span style="background-color: yellow;">På denne side kan du finde brugbare implementeringsoplysninger og vejledninger til opsætning af OS2valghalla i jeres kommune.</span>
+
 
 
 # Tilkoblingsoplysninger
