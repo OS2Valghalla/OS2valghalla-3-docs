@@ -6,7 +6,9 @@ has_children: true
 ---
 
 # Vejledninger
-Her ligger de vigtigste vejledninger til brugen af OS2valghalla
+Her ligger de vigtigste vejledninger til brugen af OS2valghalla.
+
+[Viden Valghalla](https://viden.os2valghalla.dk/)
 
 <!--
 Denne tekst

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Underside til vejledninger
-parent: Vejledninger
+parent: "Vejledninger"
 nav_order: 1
 has_children: false
 ---
