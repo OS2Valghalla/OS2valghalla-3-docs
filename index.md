@@ -9,9 +9,9 @@ has children: false
 <h1><strong>Viden om OS2valghalla</strong></h1>
 Her kan du finde vejledninger om brugen af OS2valghalla. De er udarbejdet af koordinationsgruppen, som også har til opgave at vedligeholde dem.<br><br>
 
-Mangler du en vejledning til noget, så skriv til <os2valghalla@os2.eu><br><br>
+Mangler du en vejledning til noget, så skriv til <a href="mailto:os2valghalla@os2.eu">os2valghalla@os2.eu</a><br><br>
 
-Find mere information om OS2valghalla, og hvordan man tilslutter sig samarbejdet om produktet på [OS2's hjemmeside](https://www.os2.eu/os2valghalla).<br><br>
+Find mere information om OS2valghalla, og hvordan man tilslutter sig samarbejdet om produktet på <a href="https://www.os2.eu/os2valghalla">https://www.os2.eu/os2valghalla</a>.<br><br>
 </div>
 
 
