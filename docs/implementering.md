@@ -5,10 +5,10 @@ nav_order: 4
 has_children: false
 ---
 
-# Implementering af OS2valghalla
-
-<span style="background-color: #ccc5d1;">På denne side kan du finde brugbare implementeringsoplysninger og vejledninger til opsætning af OS2valghalla i jeres kommune.</span>
-
+<div style="background:#e4dfe8; padding:10px; border-radius:6px;">
+<h1><strong>Implementering af OS2valghalla</strong></h1>
+På denne side kan du finde brugbare implementeringsoplysninger og vejledninger til opsætning af OS2valghalla i jeres kommune.
+</div>
 
 
 # Tilkoblingsoplysninger

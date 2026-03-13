@@ -18,7 +18,7 @@ Find mere information om OS2valghalla, og hvordan man tilslutter sig samarbejdet
 ## Udvalgte vejledninger
 Her kommer links til en liste med udvalgte vejledninger
 
-<!-->
+<!--
 Farve
 Sidebar: #eeebee
 Første top-bar: #ccc5d1

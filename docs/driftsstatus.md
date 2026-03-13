@@ -5,7 +5,10 @@ nav_order: 3
 has_children: false
 ---
 
-# Driftsstatus
+<div style="background:#e4dfe8; padding:10px; border-radius:6px;">
+<h1><strong>Driftsstatus</strong></h1>
+Her kan du selv tjekke, om der er fejl på DIGITAL POST, MitID eller NemLog-in | Erhverv samt KOMBITs driftsstatus.
+</div>
 
 ## Servicevinduer og kritiske fejl
 **OBS! Udenfor valgperioder opdateres denne side ikke!**
