@@ -5,12 +5,18 @@ nav_order: 1
 has children: false
 ---
 
+<div style="background:#ccc5d1; padding:10px; border-radius:6px;">
 # Viden om OS2valghalla
 Her kan du finde vejledninger om brugen af OS2valghalla. De er udarbejdet af koordinationsgruppen, som også har til opgave at vedligeholde dem.<br>
 
 Mangler du en vejledning til noget, så skriv til <os2valghalla@os2.eu><br>
 
 Find mere information om OS2valghalla, og hvordan man tilslutter sig samarbejdet om produktet på [OS2's hjemmeside](https://www.os2.eu/os2valghalla).
+</div>
+
+
+## Udvalgte vejledninger
+Her kommer links til en liste med udvalgte vejledninger
 
 
 
