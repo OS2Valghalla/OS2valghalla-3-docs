@@ -5,7 +5,7 @@ nav_order: 1
 has children: false
 ---
 
-<div style="background:#ccc5d1; padding:10px; border-radius:6px;">
+<div style="background:#e4dfe8; padding:10px; border-radius:6px;">
 <h1><strong>Viden om OS2valghalla</strong></h1>
 Her kan du finde vejledninger om brugen af OS2valghalla. De er udarbejdet af koordinationsgruppen, som også har til opgave at vedligeholde dem.<br><br>
 
@@ -18,7 +18,11 @@ Find mere information om OS2valghalla, og hvordan man tilslutter sig samarbejdet
 ## Udvalgte vejledninger
 Her kommer links til en liste med udvalgte vejledninger
 
-
+<!-->
+Farve
+Sidebar: #eeebee
+Første top-bar: #ccc5d1
+-->
 
 <!--
 Udkommenteret:
