@@ -7,11 +7,11 @@ has children: false
 
 <div style="background:#ccc5d1; padding:10px; border-radius:6px;">
 <h1>Viden om OS2valghalla</h1>
-Her kan du finde vejledninger om brugen af OS2valghalla. De er udarbejdet af koordinationsgruppen, som også har til opgave at vedligeholde dem.<br>
+Her kan du finde vejledninger om brugen af OS2valghalla. De er udarbejdet af koordinationsgruppen, som også har til opgave at vedligeholde dem.<br><br>
 
-Mangler du en vejledning til noget, så skriv til <os2valghalla@os2.eu><br>
+Mangler du en vejledning til noget, så skriv til <os2valghalla@os2.eu><br><br>
 
-Find mere information om OS2valghalla, og hvordan man tilslutter sig samarbejdet om produktet på [OS2's hjemmeside](https://www.os2.eu/os2valghalla).
+Find mere information om OS2valghalla, og hvordan man tilslutter sig samarbejdet om produktet på [OS2's hjemmeside](https://www.os2.eu/os2valghalla).<br><br>
 </div>
 
 
