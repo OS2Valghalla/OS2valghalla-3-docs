@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Underside til vejledninger
+title: "Viden om OS2valghalla"
 parent: "Vejledninger"
-nav_order: 1
 has_children: false
 ---
 
@@ -10,3 +9,5 @@ has_children: false
 lidt mere tekst
 
 [Viden Valghalla](https://viden.os2valghalla.dk/)
+
+Viden om OS2valghalla
