@@ -6,7 +6,7 @@ has_children: false
 ---
 
 # Forklaring
-Ved hjælp af dette værktøj kan du oprette et særligt link til den [eksterne hjemmeside](doks/vejledninger/ekstern_hjemmeside/index), som kun viser de opgaver, du ønsker at gøre tilgængelige. Via linket bliver det muligt for deltagere selv at vælge mellem opgaverne og tilmelde sig.
+Ved hjælp af dette værktøj kan du oprette et særligt link til den [eksterne hjemmeside](ekstern_hjemmeside/index), som kun viser de opgaver, du ønsker at gøre tilgængelige. Via linket bliver det muligt for deltagere selv at vælge mellem opgaverne og tilmelde sig.
 
 Opgaverne kan afgrænses ved hjælp af filtre, så du kan lave forskellige links til forskellige formål. Fx et link til alle opgaver, der er tildelt til et enkelt parti. Det kan sendes til partisekretæren, der derefter kan dele mellem partiets medlemmer.
 
