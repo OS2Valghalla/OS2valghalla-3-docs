@@ -14,7 +14,7 @@ Se et eksempel på "Korsbæk Kommunes" oplysningserklæring, som er baseret på 
 udgave:
 Download word-fil <!-- Læg wordfil i assetsmappe -->
 
-Hvis I ønsker at bruge deltagernes personlige oplysninger til andet end afvikling af det aktuelle valg, skal I indhente deres samtykke. Dette gøres ved at aktivere [samtykkeerklæringen](docs/vejledninger/samtykkeerklaering.md). <!-- Link til siden samtykkeerklæring-->
+Hvis I ønsker at bruge deltagernes personlige oplysninger til andet end afvikling af det aktuelle valg, skal I indhente deres samtykke. Dette gøres ved at aktivere [samtykkeerklæringen](samtykkeerklaering). <!-- Link til siden samtykkeerklæring-->
 
 # Webtilgængelighed
 Husk at formatere teksten, så den er webtilgængelig. Få eventuelt hjælp fra jeres kommunikationsafdeling eller en hjemmesideansvarlig, hvis du ikke selv ved, hvad det indebærer.
