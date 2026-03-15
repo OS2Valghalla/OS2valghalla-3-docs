@@ -45,3 +45,5 @@ hjemmeside
     1. Bemærk at der udsendes en bekræftelse i stedet for en invitation, hvis du allerede har svaret ja på vegne af en deltager
 11. Informér teamansvarlige om muligheden for at se teamets opgaver på den eksterne hjemmeside
 12. Informér arbejdsstedsansvarlige om muligheden for at se status og deltagere på deres arbejdssted på den eksterne hjemmeside
+
+------
