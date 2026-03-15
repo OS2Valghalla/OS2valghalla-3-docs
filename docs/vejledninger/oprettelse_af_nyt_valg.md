@@ -25,7 +25,7 @@ hjemmeside
 
 # Følg disse trin
 1. Tjek om grundopsætningen er korrekt:
-    1. Er der ændringer til [Områder](administration/omraader)?
+    1. Er der ændringer til [Områder](administration/omraader.md)?
     2. Er der kommet nye partier eller afdelingsnavne som skal ændres under [Teams](administration/teams)?
     3. Har I ændret procedurer, som betyder, at beskrivelser af [Opgavetyper](administration/opgavetyper) skal ændres?
     4. Er der ændringer eller tilføjelser til [Arbejdssteder](administration/arbejdssteder)?
