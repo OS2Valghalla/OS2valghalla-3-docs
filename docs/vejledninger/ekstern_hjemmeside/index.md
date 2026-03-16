@@ -2,7 +2,7 @@
 layout: default
 title: "Ekstern hjemmeside"
 parent: Vejledninger
-has_children: true
+has_toc: true
 nav_order: 3
 ---
 
