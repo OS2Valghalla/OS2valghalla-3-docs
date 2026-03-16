@@ -2,7 +2,6 @@
 layout: default
 title: "Administration af Ekstern hjemmeside"
 parent: "Administration"
-has_children: false
 ---
 
 # Forklaring
