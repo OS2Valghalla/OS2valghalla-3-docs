@@ -8,5 +8,5 @@ nav_order: 1
 
 # Dokumenter i dokumentsamlingen
 
-## INDHOLD
+# INDHOLD
 {: .no_toc }
