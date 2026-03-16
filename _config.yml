@@ -1,6 +1,8 @@
 title: OS2valghalla
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+just_the_docs:
+  toc_title: "INDHOLD"
 
 
 url: https://just-the-docs.github.io
