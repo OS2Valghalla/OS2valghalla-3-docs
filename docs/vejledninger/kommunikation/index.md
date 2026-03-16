@@ -3,7 +3,6 @@ layout: default
 title: "Kommunikation"
 parent: Vejledninger
 has_toc: true
-toc_position: top
 nav_order: 4
 ---
 
