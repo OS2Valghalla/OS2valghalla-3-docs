@@ -3,7 +3,6 @@ layout: default
 title: "Oplysningserklæring"
 parent: "Vejledninger"
 has_children: false
-nav_order: default
 ---
 
 # Forklaring
