@@ -18,3 +18,5 @@ Det kunne også være et link til alle opgaver tildelt teamet "Frivillige", som 
 - Du har mulighed for at inkludere betroede opgaver i linket, så vær varsom med, hvor sådan et link
 deles
 - Når en opgave er tildelt en deltager, forsvinder den fra oversigten på linket
+
+---

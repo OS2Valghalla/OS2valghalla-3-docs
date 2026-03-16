@@ -1,9 +1,11 @@
+<!--
 ---
 layout: default
 title: "Viden om OS2valghalla"
 parent: "Vejledninger"
 has_children: false
 ---
+-->
 
 Her kan du finde vejledninger om brugen af OS2valghalla. De er udarbejdet af koordinationsgruppen, som også har til opgave at vedligeholde dem.
 
