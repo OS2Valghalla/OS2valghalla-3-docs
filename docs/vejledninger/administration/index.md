@@ -7,6 +7,3 @@ nav_order: 1
 ---
 
 # Dokumenter i dokumentsamlingen
-
-# INDHOLD
-{: .no_toc }
