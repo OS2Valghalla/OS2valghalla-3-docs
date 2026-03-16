@@ -59,6 +59,9 @@ Den eksterne hjemmeside benyttes til forskellige ting, uanset om du tilbyder sel
 - Se deltageroplysninger på dem, der er tildelt opgaver på arbejdsstedet
 
 
+
+
+<!--
 # Dokumenter i dokumentsamlingen
 1. Ekstern hjemmeside - Opgaver
 2. Ekstern hjemmeside - Mine opgaver
@@ -69,6 +72,5 @@ Den eksterne hjemmeside benyttes til forskellige ting, uanset om du tilbyder sel
 7. Vejledning til partisekretærer
 8. Vejledning til tilmelding
 
-<!--
-Indsæt link til de resleptive vejledninger
+ER sat ind som has_toc
 -->
