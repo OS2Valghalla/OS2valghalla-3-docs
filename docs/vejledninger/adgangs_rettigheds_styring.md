@@ -50,16 +50,15 @@ Der er fire forskellige roller.
 
 I oversigten kan du se, hvilke områder af OS2valghalla, der er tilgængelig for forskellige brugerroller.
 
-Test|  Anonym |  Deltager |  Teamansvarlig |  Arbejdssteds-ansvarlig  
----|---|---|---|---  
-**Forside** | X | X | X | X  
-**Kontaktoplysninger** | X | X | X | X  
-**Opgaver**  
-**(delt via link)** | X | X | X | X  
-**Teamets opgaver** |  | X | X | X  
-**Mine opgaver** |  | X | X | X  
-**Min profil** |  | X | X | X  
-**FAQ** | X | X | X | X  
-**Mit team** |  |  | X |   
-**Opgavefordeling** |  |  | X |   
-**Mit arbejdssted** |  |  |  | X
+|  |  Anonym |  Deltager |  Teamansvarlig |  Arbejdssteds-ansvarlig |
+|---|---|---|---|---|
+| **Forside** | X | X | X | X |
+| **Kontaktoplysninger** | X | X | X | X |
+| **Opgaver (delt via link)** | X | X | X | X |
+| **Teamets opgaver** |  | X | X | X |
+| **Mine opgaver** |  | X | X | X |
+| **Min profil** |  | X | X | X |
+| **FAQ** | X | X | X | X |
+| **Mit team** |  |  | X |  |
+| **Opgavefordeling** |  |  | X |  |
+| **Mit arbejdssted** |  |  |  | X |
