@@ -50,8 +50,8 @@ Der er fire forskellige roller.
 
 I oversigten kan du se, hvilke områder af OS2valghalla, der er tilgængelig for forskellige brugerroller.
 
-|  Anonym |  Deltager |  Teamansvarlig |  Arbejdssteds-ansvarlig  
----|---|---|---  
+---|  Anonym |  Deltager |  Teamansvarlig |  Arbejdssteds-ansvarlig  
+---|---|---|---|---  
 **Forside** | X | X | X | X  
 **Kontaktoplysninger** | X | X | X | X  
 **Opgaver**  
