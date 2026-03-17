@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Fordeling af opgaver på et arbejdssted"
+title: "FAQ"
 parent: "Vejledninger"
 ---
 
