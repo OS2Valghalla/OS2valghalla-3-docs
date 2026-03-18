@@ -7,4 +7,8 @@ nav_order: 4
 ---
 
 # Kommunikation
-Her kan du finde vejledninger til de enkelte elementer under området 'Kommunikation' i OS2valghalla.
+Her finder du vejledninger til de enkelte elementer under 'Kommunikation i OS2valghalla.
+- [Beskedskabeloner](kommunikation/beskedskabeloner)
+- [Kommunikationslog](kommunikation/kommunikationslog)
+- [Send besked](kommunikation/send_besked)
+- [Automatisk kommunikation](kommunikation/automatisk_kommunikation)
