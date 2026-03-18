@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Opret opgavelink"
-parent: "Vejledninger"
+parent: "Opgaver"
 has_children: false
 ---
 

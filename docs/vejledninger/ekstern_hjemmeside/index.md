@@ -3,7 +3,7 @@ layout: default
 title: "Ekstern hjemmeside"
 parent: Vejledninger
 has_toc: true
-nav_order: 3
+nav_order: 4
 ---
 
 # Forklaring af menupunkter og funktionalitet

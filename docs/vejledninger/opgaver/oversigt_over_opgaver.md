@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Oversigt over opgaver/Start"
-parent: "Vejledninger"
+parent: "Opgaver"
 has_children: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Eksporter oversigt over arbejdsfordeling"
-parent: "Vejledninger"
+parent: "Opgaver"
 ---
 
 Hvis du har behov for at dele fordelingen af opgaver med en kollega, der ikke har adgang til OS2valghalla, så
