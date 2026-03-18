@@ -18,3 +18,11 @@ nav_order: 1
   - Mere tekst...
 
 </details>
+
+Ren markdown:
+
+::: details Klik her
+Skjult indhold
+
+Lige lidt mere tekst
+:::
