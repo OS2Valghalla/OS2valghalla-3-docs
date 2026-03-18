@@ -8,6 +8,7 @@ nav_order: 4
 
 # Kommunikation
 Her finder du vejledninger til de enkelte elementer under 'Kommunikation i OS2valghalla.
+
 <!-- vises i table of content
 - [Beskedskabeloner](kommunikation/beskedskabeloner)
 - [Kommunikationslog](kommunikation/kommunikationslog)
