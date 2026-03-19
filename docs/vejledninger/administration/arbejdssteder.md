@@ -19,7 +19,7 @@ Fra forsiden skal du:
      1. Vælge Administration i topmenuen
      2. Klikke på Arbejdssteder
 
-![Administration - Arbejdssteder](../sites/default/files/styles/large/public/2023-12/Arbejdssteder.png%3Fitok=l7oAyxLS)
+![Administration - Arbejdssteder](../../images/img_administration/administration-arbejdssteder.png)
 
   2. Trin 2: Opret arbejdssted og -ansvarlige 
 
