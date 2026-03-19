@@ -27,19 +27,41 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
 <details>
   <summary>Trin 2: Opret arbejdssted og -ansvarlige</summary>
 
-  1. Vælg Opret arbejdssted øverst til højre
-  2. Udfyld som minimum de obligatoriske *-markerede felter
-    - Område anvendes ikke i alle valgkredse, se [vejledningen om denne](omraader)
-    - Afstemningsområde anvendes ved eksport til Valg Central, og udfyldes med samme afstemningsområde som i Valgcentral
-    - Ansvarlige kan udfyldes med den eller de valgsekretærer, der er ansvarlige for arbejdsstedet
-  3. Vælg de opgavetyper og teams, der er relevante for arbejdsstedet 
-    - Dette kan redigeres, så længe arbejdsstedet ikke er tilknyttet et aktivt valg
+  <ol>
+    <li>Vælg Opret arbejdssted øverst til højre</li>
+    <li>
+      Udfyld som minimum de obligatoriske *-markerede felter
+      <ol>
+        <li>
+          Område anvendes ikke i alle valgkredse, se 
+          <a href="omraader">vejledningen om denne</a>
+        </li>
+        <li>
+          Afstemningsområde anvendes ved eksport til Valg Central, og udfyldes med samme afstemningsområde som i Valgcentral
+        </li>
+        <li>
+          Ansvarlige kan udfyldes med den eller de valgsekretærer, der er ansvarlige for arbejdsstedet
+        </li>
+      </ol>
+    </li>
+    <li>
+      Vælg de opgavetyper og teams, der er relevante for arbejdsstedet
+      <ol>
+        <li>
+          Dette kan redigeres, så længe arbejdsstedet ikke er tilknyttet et aktivt valg
+        </li>
+      </ol>
+    </li>
+  </ol>
 
-![Administration - Arbejdssteder - opret arbejdssted](../../images/img_administration/administration-opret-arbejdssted.png)
+  <img src="../../images/img_administration/administration-opret-arbejdssted.png" alt="Administration - Arbejdssteder - opret arbejdssted">
 
-![Administration - arbejdsteder - opret felter](../../images/img_administration/administration-arbejdssteder-opret.png)
+  <img src="../../images/img_administration/administration-arbejdssteder-opret.png" alt="Administration - arbejdsteder - opret felter">
 
 </details>
+
+---
+
 
   1. Trin 1: Administration af arbejdssteder 
 
