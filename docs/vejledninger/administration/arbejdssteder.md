@@ -12,6 +12,33 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
 
 ### Trin for trin
 
+<details>
+  <summary>Trin 1: Administration af arbejdssteder</summary>
+
+1. Vælge Administration i topmenuen
+2. Klikke på Arbejdssteder
+
+![Administration - Arbejdssteder](../../images/img_administration/administration-arbejdssteder.png)
+
+</details>
+
+<details>
+  <summary>Trin 2: Opret arbejdssted og -ansvarlige</summary>
+
+  1. Vælg Opret arbejdssted øverst til højre
+  2. Udfyld som minimum de obligatoriske *-markerede felter
+    - Område anvendes ikke i alle valgkredse, se [vejledningen om denne](omraader)
+    - Afstemningsområde anvendes ved eksport til Valg Central, og udfyldes med samme afstemningsområde som i Valgcentral
+    - Ansvarlige kan udfyldes med den eller de valgsekretærer, der er ansvarlige for arbejdsstedet
+  3. Vælg de opgavetyper og teams, der er relevante for arbejdsstedet 
+    - Dette kan redigeres, så længe arbejdsstedet ikke er tilknyttet et aktivt valg
+
+![Administration - Arbejdssteder - opret arbejdssted](../../images/img_administration/administration-opret-arbejdssted.png)
+
+![Administration - arbejdsteder - opret felter](../../images/img_administration/administration-arbejdssteder-opret.png)
+
+</details>
+
   1. Trin 1: Administration af arbejdssteder 
 
 Fra forsiden skal du:
