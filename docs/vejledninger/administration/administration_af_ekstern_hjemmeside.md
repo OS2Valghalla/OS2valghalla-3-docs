@@ -8,7 +8,7 @@ parent: "Administration"
 Den eksterne hjemmeside er den del af OS2valghalla, som borgere og andre deltagere i valget kan tilgå. Den aktiveres, når der er et aktivt valg. Hvis der ikke er et aktivt valg mødes deltagerne af en besked om, at kommunen ikke planlægger valg for tiden.
 
 Du har mulighed for at administrere forskellige dele af den eksterne hjemmeside:
-- [FAQ-side](faq_side)
+- [FAQ-side](../faq_side.md)
 - Forside
 - Kontaktinformation
 - Oplysningserklæring
