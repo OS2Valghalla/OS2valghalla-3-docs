@@ -8,21 +8,9 @@ nav_order: 1
 
 # Dokumenter i dokumentsamlingen
 
-<details>
-  <summary>Klik for at åbne</summary>
+Her kan du finde vejledninger til de enkelte elementer under området 'Administration' i OS2valghalla.
 
-  Her er indholdet 👇
+Klik på fanebladet 'Dokumenter' for at finde dem.
 
-  - Punkt 1
-  - Punkt 2
-  - Mere tekst...
+Bemærk at alle indstillinger i Administration er globale og slår igennem på tværs af alle valg.
 
-</details>
-
-Ren markdown:
-
-::: details Klik her
-Skjult indhold
-
-Lige lidt mere tekst
-:::

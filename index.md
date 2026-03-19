@@ -19,6 +19,20 @@ Find mere information om OS2valghalla, og hvordan man tilslutter sig samarbejdet
 Her kommer links til en liste med udvalgte vejledninger.
 
 <!--
+Sådan laves sektioner - overvej, hvor de skal gøre sig gældende
+<details>
+  <summary>Klik for at åbne</summary>
+
+  Her er indholdet 👇
+
+  - Punkt 1
+  - Punkt 2
+  - Mere tekst...
+
+</details>
+-->
+
+<!--
 Farve
 Sidebar: #eeebee
 Første top-bar: #ccc5d1
