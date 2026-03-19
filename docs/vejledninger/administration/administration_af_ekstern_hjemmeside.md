@@ -9,10 +9,10 @@ Den eksterne hjemmeside er den del af OS2valghalla, som borgere og andre deltage
 
 Du har mulighed for at administrere forskellige dele af den eksterne hjemmeside:
 - [FAQ-side](../faq_side)
-- Forside
-- Kontaktinformation
-- Oplysningserklæring
-- Samtykkeerklæring
+- [Forside](../forside)
+- [Kontaktinformation](../kontaktinformation)
+- [Oplysningserklæring](../oplysningserklaering)
+- [Samtykkeerklæring](../samtykkeerklaering)
 
 <!--
 Overnstående er link til de 5 respektive vejledninger
