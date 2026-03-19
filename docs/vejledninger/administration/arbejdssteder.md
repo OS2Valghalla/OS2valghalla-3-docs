@@ -15,10 +15,10 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
 <details>
   <summary>Trin 1: Administration af arbejdssteder</summary>
 
-1. Vælge Administration i topmenuen
-2. Klikke på Arbejdssteder
+  1. Vælge Administration i topmenuen
+  2. Klikke på Arbejdssteder
 
-![Administration - Arbejdssteder](../../images/img_administration/administration-arbejdssteder.png)
+  ![Administration - Arbejdssteder](../../images/img_administration/administration-arbejdssteder.png)
 
 </details>
 
