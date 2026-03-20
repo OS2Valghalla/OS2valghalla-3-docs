@@ -24,7 +24,7 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
 
 </details>
 ---
-<br>
+
 <details>
   <summary><strong>Trin 2: Opret arbejdssted og -ansvarlige</strong></summary>
 
@@ -65,15 +65,16 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
 <details>
   <summary><strong>Trin 3: Rediger eller slet arbejdssted</strong></summary>
 
-<ol>
-    <li>Klik på Skraldespanden for at slette et arbejdssted</li>
-    <li>KKlik på Blyanten ud for arbejdsstedet for at redigere oplysningerne</li>
-</ol>
+  <ol>
+      <li>Klik på Skraldespanden for at slette et arbejdssted</li>
+      <li>KKlik på Blyanten ud for arbejdsstedet for at redigere oplysningerne</li>
+  </ol>
 
 <strong>OBS!</strong> Hvis du vil redigere tilknyttede teams og opgavetyper på et arbejdssted, er det kun muligt, hvis alle valg i OS2valghalla er deaktiverede.
 
-Læs mere om at [deaktivere et valg](valg).
+Læs mere om at <a href="valg.md">deaktivere et valg.</a>
 
   <img src="../../images/img_administration/administration-specialkost-rediger.PNG" alt="Administration - Specialkost - Rediger/slet">
 
-</details
+</details>
+---
