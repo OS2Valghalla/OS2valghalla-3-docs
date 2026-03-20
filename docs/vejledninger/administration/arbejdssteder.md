@@ -54,7 +54,7 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
     </li>
   </ol>
 
-  <img src="../../images/img_administration/administration-opret-arbejdssted.png" alt="Administration - Arbejdssteder - opret arbejdssted">
+  <img src="../../images/img_administration/administration-opret-arbejdssted.png" alt="Administration - Arbejdssteder - opret arbejdssted"><br><br>
 
   <img src="../../images/img_administration/administration-arbejdssteder-opret.png" alt="Administration - arbejdsteder - opret felter">
 
