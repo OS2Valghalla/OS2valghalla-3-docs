@@ -70,9 +70,9 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
       <li>KKlik på Blyanten ud for arbejdsstedet for at redigere oplysningerne</li>
   </ol>
 
-<strong>OBS!</strong> Hvis du vil redigere tilknyttede teams og opgavetyper på et arbejdssted, er det kun muligt, hvis alle valg i OS2valghalla er deaktiverede.
+<strong>OBS!</strong> Hvis du vil redigere tilknyttede teams og opgavetyper på et arbejdssted, er det kun muligt, hvis alle valg i OS2valghalla er deaktiverede.<br>
 
-Læs mere om at <a href="valg.md">deaktivere et valg.</a>
+Læs mere om at <a href="valg">deaktivere et valg.</a><br>
 
   <img src="../../images/img_administration/administration-specialkost-rediger.PNG" alt="Administration - Specialkost - Rediger/slet">
 
