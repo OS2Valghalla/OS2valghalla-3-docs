@@ -12,7 +12,7 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
 
 ### Trin for trin
 
-
+<br>
 <details>
   <summary><strong>Trin 1: Administration af arbejdssteder</strong></summary>
 
@@ -78,4 +78,3 @@ Læs mere om at <a href="valg">deaktivere et valg.</a><br><br>
   <img src="../../images/img_administration/administration-specialkost-rediger.PNG" alt="Administration - Specialkost - Rediger/slet">
 
 </details>
----
