@@ -24,6 +24,8 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
 
 </details>
 
+<br><br>
+
 <details>
   <summary>Trin 2: Opret arbejdssted og -ansvarlige</summary>
 
