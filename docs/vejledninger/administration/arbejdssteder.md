@@ -13,7 +13,7 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
 ### Trin for trin
 
 <details>
-  <summary>Trin 1: Administration af arbejdssteder</summary>
+  <summary><strong>Trin 1: Administration af arbejdssteder</strong></summary>
 
   <ol>
     <li>Vælge Administration i topmenuen</li>
@@ -23,11 +23,10 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
   <img src="../../images/img_administration/administration-arbejdssteder.png" alt="Administration - Arbejdssteder">
 
 </details>
-
-<br><br>
-
+---
+<br>
 <details>
-  <summary>Trin 2: Opret arbejdssted og -ansvarlige</summary>
+  <summary><strong>Trin 2: Opret arbejdssted og -ansvarlige</strong></summary>
 
   <ol>
     <li>Vælg Opret arbejdssted øverst til højre</li>
@@ -61,40 +60,20 @@ OBS - Du kan med fordel oprette Opgavetyper og Teams, før du opretter arbejdsst
   <img src="../../images/img_administration/administration-arbejdssteder-opret.png" alt="Administration - arbejdsteder - opret felter">
 
 </details>
-
 ---
 
+<details>
+  <summary><strong>Trin 3: Rediger eller slet arbejdssted</strong></summary>
 
-  1. Trin 1: Administration af arbejdssteder 
+<ol>
+    <li>Klik på Skraldespanden for at slette et arbejdssted</li>
+    <li>KKlik på Blyanten ud for arbejdsstedet for at redigere oplysningerne</li>
+</ol>
 
-Fra forsiden skal du:
+<strong>OBS!</strong> Hvis du vil redigere tilknyttede teams og opgavetyper på et arbejdssted, er det kun muligt, hvis alle valg i OS2valghalla er deaktiverede.
 
-     1. Vælge Administration i topmenuen
-     2. Klikke på Arbejdssteder
+Læs mere om at [deaktivere et valg](valg).
 
-![Administration - Arbejdssteder](../../images/img_administration/administration-arbejdssteder.png)
+  <img src="../../images/img_administration/administration-specialkost-rediger.PNG" alt="Administration - Specialkost - Rediger/slet">
 
-  2. Trin 2: Opret arbejdssted og -ansvarlige 
-
-     1. Vælg Opret arbejdssted øverst til højre
-     2. Udfyld som minimum de obligatoriske *-markerede felter 
-        1. Område anvendes ikke i alle valgkredse, se [vejledningen om denne](områder.md)
-        2. Afstemningsområde anvendes ved eksport til Valg Central, og udfyldes med samme afstemningsområde som i Valgcentral
-        3. Ansvarlige kan udfyldes med den eller de valgsekretærer, der er ansvarlige for arbejdsstedet
-     3. Vælg de opgavetyper og teams, der er relevante for arbejdsstedet 
-        1. Dette kan redigeres, så længe arbejdsstedet ikke er tilknyttet et aktivt valg
-
-![Administration - Arbejdssteder - opret arbejdssted](../sites/default/files/styles/large/public/2023-12/opret%20arbejdssted.png%3Fitok=VUEnkk9B)
-
-![Administration - arbejdsteder - opret felter](../sites/default/files/styles/large/public/2025-01/Administration%20-%20arbejdsteder%20-%20opret.png%3Fitok=EQqfMyDi)
-
-  3. Trin 3: Rediger eller slet arbejdssted 
-
-     1. Klik på Skraldespanden for at slette et arbejdssted
-     2. Klik på Blyanten ud for arbejdsstedet for at redigere oplysningerne
-
-**OBS!** Hvis du vil redigere tilknyttede teams og opgavetyper på et arbejdssted, er det kun muligt, hvis alle valg i OS2valghalla er deaktiverede.
-
-Læs mere om at [deaktivere et valg](valg.md).
-
-![Administration - Specialkost - Rediger/slet](../sites/default/files/styles/large/public/2023-12/3.PNG%3Fitok=GmcYQ846)
+</details
