@@ -67,7 +67,7 @@ Hvis du har behov for at redigere disse elementer anbefaler vi, at du duplikerer
     </ol>
     <p>Valgtypen afgør, hvilken validering der kan foretages af deltagerne. Som udgangspunkt er OS2valghalla sat op efter lovens bestemmelser, men du kan også selv ændre i valideringen under administration af <a href="valgtyper">Valgtyper</a>.</p>
     <p>Låseperioden angiver det tidsrum før valgdatoen, hvor deltagere ikke længere selv kan afmelde sig opgaver. I det tidsrum skal de kontakte den valgansvarlige, hvilket de oplyses om.</p><br><br>
-    <img src="../../images/img_administration/Administration-valg-titel-type.png" alt="Administration - Valg - Titel og type">
+    <img src="../../images/img_administration/Administration-valg-titel-type.png" alt="Administration - Valg - Titel og type"><br>
   </details>
 
   <details>
@@ -77,13 +77,13 @@ Hvis du har behov for at redigere disse elementer anbefaler vi, at du duplikerer
       <li>Opsætte datointerval fra første dato til sidste dato du skal bemande arbejdspladser</li>
       <li>Vælge en valgdato</li>
     </ol>
-    <img src="../../images/img_administration/administration-valg-datoer.PNG" alt="Administration - Valg - Dato">
+    <img src="../../images/img_administration/administration-valg-datoer.PNG" alt="Administration - Valg - Dato"><br>
   </details>
 
   <details>
     <summary><strong>Trin 3.3: Arbejdssteder</strong></summary>
     <p>På tredje trin skal du vælge de arbejdssteder, du skal bemande. Du opsætter, hvilke arbejdssteder der skal fremgå på listen under administration af <a href="arbejdssteder">Arbejdssteder</a>.</p><br><br>
-    <img src="../../images/img_administration/administration-valg-arbejdssteder.PNG" alt="Administration - Valg - Arbejdssteder">
+    <img src="../../images/img_administration/administration-valg-arbejdssteder.PNG" alt="Administration - Valg - Arbejdssteder"><br>
   </details>
 
   <details>
@@ -91,7 +91,7 @@ Hvis du har behov for at redigere disse elementer anbefaler vi, at du duplikerer
     <p>På sidste trin skal du opsætte kommunikation for valget. Du skal først vælge skabeloner til standardbeskeder. Disse skabeloner bruges til alt kommunikation, som ikke bliver styret af opgavespecifik opsætning.</p>
     <p>Du kan have tre typer af skabeloner - Digital Post, E-mail eller SMS. Det er vigtigt, du har opsat de rigtige typer af skabeloner i skabelonadministrationen. Du opsætter skabelonerne under administration af <a href="../kommunikation/beskedskabeloner">Beskedskabeloner</a>.</p>
     <p>Når du har udfyldt de fire trin, vil det være muligt at trykke på OK, og valget bliver nu oprettet. Bemærk at du kan redigere opsætningen af kommunikation senere.</p><br><br>
-    <img src="../../images/img_administration/administration-valg-komm-beskeder.PNG" alt="Administration - Valg - Kommunikation">
+    <img src="../../images/img_administration/administration-valg-komm-beskeder.PNG" alt="Administration - Valg - Kommunikation"><br>
   </details>
 </details>
 ---
@@ -117,13 +117,13 @@ Hvis du har behov for at redigere disse elementer anbefaler vi, at du duplikerer
   <details>
     <summary><strong>Trin 4.1: Aktivér valg</strong></summary>
     <p>Klik på det røde kryds ud for det valg, som du ønsker at aktivere</p>
-    <img src="../../images/img_administration/administration-valg-4-aktiver.png" alt="Aktiver valg">
+    <img src="../../images/img_administration/administration-valg-4-aktiver.png" alt="Aktiver valg"><br>
   </details>
 
   <details>
     <summary><strong>Trin 4.2: Deaktivér valg</strong></summary>
     <p>Klik på det grønne flueben kryds ud for det valg, som du ønsker at deaktivere</p><br><br>
-    <img src="../../images/img_administration/administration-valg-4-deaktiver.png" alt="Deaktiver valg">
+    <img src="../../images/img_administration/administration-valg-4-deaktiver.png" alt="Deaktiver valg"><br>
   </details>
 </details>
 ---
