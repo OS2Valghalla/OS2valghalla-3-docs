@@ -32,7 +32,7 @@ Hvis du har behov for at redigere disse elementer anbefaler vi, at du duplikerer
     <li>Vælge Administration i topmenuen</li>
     <li>Klikke på Valg</li>
   </ol>
-  <p>Du står nu på valgoverblikket.</p><br>br
+  <p>Du står nu på valgoverblikket.</p><br>
   <img src="../../images/img_administration/administration-valg.PNG" alt="Administrartion - Valg">
 </details>
 ---
@@ -155,14 +155,14 @@ Hvis du har behov for at redigere disse elementer anbefaler vi, at du duplikerer
 
 <details>
   <summary><strong>Trin 6: Duplikere valg</strong></summary>
-  <p>Du kan duplikere et tidligere valg fra valgoverblikket. Klik på kopi-ikonet ud for det valg, som du ønsker at duplikere.</p><br>
-  <p>Ved duplikering er det muligt at ændre på alle parametre fra det tidligere valg som fx valgperiode, valgdato og tilknyttede arbejdssteder.</p><br>
-  <p>Når et valg duplikeres, overføres opgavefordelingen på de tilknyttede valgsteder. Deltagernes placering på opgaverne vil dog ikke blive overført.</p><br><br>
+  <p>Du kan duplikere et tidligere valg fra valgoverblikket. Klik på kopi-ikonet ud for det valg, som du ønsker at duplikere.</p>
+  <p>Ved duplikering er det muligt at ændre på alle parametre fra det tidligere valg som fx valgperiode, valgdato og tilknyttede arbejdssteder.</p>
+  <p>Når et valg duplikeres, overføres opgavefordelingen på de tilknyttede valgsteder. Deltagernes placering på opgaverne vil dog ikke blive overført.</p><br>
   <img src="../../images/img_administration/administration-valg-6-dupliker.png" alt="Dupliker valg">
 
   <details>
     <summary><strong>Trin 6.1: Duplikeret data</strong></summary>
-    <p>Disse oplysninger duplikeres 1:1 fra det oprindelige til det nye valg:</p><br>
+    <p>Disse oplysninger duplikeres 1:1 fra det oprindelige til det nye valg:</p>
     <ul>
       <li>Titel</li>
       <li>Valgtype</li>
@@ -171,10 +171,10 @@ Hvis du har behov for at redigere disse elementer anbefaler vi, at du duplikerer
       <li>Kommunikationskonfiguration</li>
       <li>Opgavefordeling på arbejdssteder</li>
     </ul>
-    <p>Alle oplysninger kan redigeres under duplikationen.</p><br>
+    <p>Alle oplysninger kan redigeres under duplikationen.</p>
 
     <p>Datointervallet konverteres til antal dage:</p><br>
-    <p>For at sikre at opgavefordelingen duplikeres korrekt, kan systemet ikke duplikere datointervallet baseret på datoer. I stedet angives hvor mange dage før og efter valget, der skal løses opgaver.</p><br>
+    <p>For at sikre at opgavefordelingen duplikeres korrekt, kan systemet ikke duplikere datointervallet baseret på datoer. I stedet angives hvor mange dage før og efter valget, der skal løses opgaver.</p>
 
     <p>Disse oplysninger duplikeres ikke:</p>
     <ul>
@@ -188,7 +188,7 @@ Hvis du har behov for at redigere disse elementer anbefaler vi, at du duplikerer
 
 <details>
   <summary><strong>Trin 7: Slette et valg</strong></summary>
-  <p>Du kan slette et deaktiveret valg efter behov. Sammen med valget slettes fordelingen af opgaver på de tilknyttede arbejdssteder. Desuden slettes deltagernes tilknytning til opgaver i valget, så det kan være en god idé at eksportere en liste med oplysningerne inden valget slettes.</p><br>
+  <p>Du kan slette et deaktiveret valg efter behov. Sammen med valget slettes fordelingen af opgaver på de tilknyttede arbejdssteder. Desuden slettes deltagernes tilknytning til opgaver i valget, så det kan være en god idé at eksportere en liste med oplysningerne inden valget slettes.</p>
   <p>Hvis du har behov for at gemme opgavefordelingen, kan du duplikere valget, inden du sletter det.</p>
   <ol>
     <li>Gå til valgoverblikket</li>
