@@ -14,14 +14,66 @@ Områder vises ikke på den eksterne hjemmeside, men benyttes til at opdele over
 
 ---
 
-Trin for trin
+### Trin for trin
 
+<br>
+<details>
+  <summary><strong>Trin 1: Administration af Områder</strong></summary>
+
+<p>Fra forsiden skal du:</p>
+
+<ol>
+    <li>Vælge Administration i topmenuen</li>
+    <li>Klikke på Områder</li>
+</ol>
+
+<p>Du står nu på siden administration af Områder</p>
+
+<img src="../../images/img_administration/administration-omraader.png" alt="Administration - områder">
+
+</details>
+---
+
+<details>
+  <summary><strong>Trin 2: Tilføj Område</strong></summary
+
+<ol>
+    <li>Klik på <strong>Opret område</strong> øverst til højre</li>
+    <li>Udfyld navn og evt. beskrivelse</li>
+    <li>Vælg <strong>OK</strong> for at gemme</li>
+</ol>
+
+<img src="../../images/img_administration/administration-omraader-opret.png" alt="Administration - områder - opret"><br><br>
+
+<img src="../../images/img_administration/administration-omraader-OK.png" alt="Administration - områder - OK">
+
+</details>
+---
+
+<details>
+  <summary><strong>Trin 3: Rediger eller slet område</strong></summary
+
+<p><strong>OS2valghalla</strong> kræver at der skal være oprettet mindst 1 område.</p>
+
+<p>
+Hvis der ikke er behov for, at de personer der tilmelder sig skal kunne sortere på fx en geografisk opdeling af Arbejdsstederne,
+så anbefales det at redigere et af standardområderne og navngive det med kommunenavn eller valgkreds og herefter slette de øvrige områder.
+</p>
+
+<ol>
+    <li>Klik på blyanten for at redigere Området</li>
+    <li>Klik på skraldespanden for at slette Området</li>
+</ol>
+
+<img src="../../images/img_administration/administration-specialkost-rediger.PNG" alt="Administration - Specialkost - Rediger/slet">
+
+</details>
+
+
+<!-- REN MARKDOWN MED ANCHOR LINKS I TEKSTEN
   1. [Trin 1: Administration af Områder ](#administration)
   2. [Trin 2: Tilføj Område ](#tilføj)
   3. [Trin 3: Rediger eller slet område ](#slet)
-
-
-
 
 ## Administration
 
@@ -54,3 +106,4 @@ Hvis der ikke er behov for, at de personer der tilmelder sig skal kunne sortere 
      2. Klik på skraldespanden for at slette Området
 
 ![Administration - Specialkost - Rediger/slet](../../images/img_administration/administration-specialkost-rediger.PNG)
+-->
