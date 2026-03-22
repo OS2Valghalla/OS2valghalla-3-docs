@@ -35,7 +35,7 @@ Områder vises ikke på den eksterne hjemmeside, men benyttes til at opdele over
 ---
 
 <details>
-  <summary><strong>Trin 2: Tilføj Område</strong></summary
+  <summary><strong>Trin 2: Tilføj Område</strong></summary>
 
 <ol>
     <li>Klik på <strong>Opret område</strong> øverst til højre</li>
@@ -51,7 +51,7 @@ Områder vises ikke på den eksterne hjemmeside, men benyttes til at opdele over
 ---
 
 <details>
-  <summary><strong>Trin 3: Rediger eller slet område</strong></summary
+  <summary><strong>Trin 3: Rediger eller slet område</strong></summary>
 
 <p><strong>OS2valghalla</strong> kræver at der skal være oprettet mindst 1 område.</p>
 
