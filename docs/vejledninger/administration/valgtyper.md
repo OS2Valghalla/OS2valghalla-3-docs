@@ -63,36 +63,3 @@ Bemærk at det er muligt at deaktivere validering på en opgavetype, så en delt
   <img src="../../images/img_administration/administration-valgtyper-opret.png" alt="Administration - valgtyper - opret">
 
 </details>
-
-
-
-
-
-
-
-
-
- 1. Trin 1: Administration af valgtyper 
-
-Fra forsiden skal du:
-
-     1. Vælge Administration i topmenuen
-     2. Klikke på Valgtyper
-
-![Administration - valgtyper](../../images/img_administration/administration-valgtyper.png)
-
-  2. Trin 2: Se eller ændre validering 
-
-Det anbefales ikke at ændre standardopsætningen af valideringen på standardvalgtyperne.
-
-Dette vil kun være relevant, hvis der sker en lovændring, der ændrer deltagerne i valghandlingen.
-
-Du kan se de opsatte valideringer ved at klikke på blyanten ud for den enkelte valgtype.
-
-  3. Trin 3: Opret valgtype 
-
-     1. Vælg Opret valgtype øverst til højre
-     2. Udfyld de ønskede valideringskrav til valgtypen
-     3. Klik OK
-
-![Administration - valgtyper - opret](../../images/img_administration/administration-valgtyper-opret.png)
