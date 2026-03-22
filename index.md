@@ -21,7 +21,7 @@ Her kommer links til en liste med udvalgte vejledninger.
 <!--
 Sådan laves sektioner - overvej, hvor de skal gøre sig gældende
 <details>
-  <summary>Klik for at åbne</summary>
+  <summary><strong>Trin 1: Klik for at åbne</strong></summary>
 
   Her er indholdet 👇
 
