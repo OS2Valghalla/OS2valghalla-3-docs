@@ -39,8 +39,8 @@ has_children: false
 <details>
   <summary><strong>Trin 5: Klargør filen til import i Valg Central</strong></summary>
 
-  <p><strong>OBS vær opmærksom på at opgaverne fra Valghalla skal ændres så de passer til Valg Central</strong></p>
-  <p><strong>Valg Central overskriver data når du importere dem, så listen skal indeholde alle de deltagere der skal anvende Valg Lokal når du importerer dem.</strong></p>
+  <p><mark>OBS vær opmærksom på at opgaverne fra Valghalla skal ændres så de passer til Valg Central</mark></p>
+  <p><mark>Valg Central overskriver data når du importere dem, så listen skal indeholde alle de deltagere der skal anvende Valg Lokal når du importerer dem.</mark></p>
 
   <details>
     <summary><strong>Trin 5.1: Klargør ny fil til import i Valg Central trin 1</strong></summary>
