@@ -15,7 +15,7 @@ Du har disse muligheder for at administrere deltagere:
 
 
 <details>
-  <summary><strong>Trin 1: Opret deltager</strong></summary>
+  <summary><strong>Trin 1: Opret deltager</strong></summary><br>
 
   <details>
     <summary><strong>Trin 1.1: Opret deltager</strong></summary>
@@ -44,7 +44,7 @@ Du har disse muligheder for at administrere deltagere:
     <img src="../../images/img_deltagere/deltager-anden-information.PNG" alt="Tilføj anden information"><br>
   </details>
 
-</details>
+</details><br><br>
 
 <details>
   <summary><strong>Trin 2: Se alle oplysninger om en deltager</strong></summary>
@@ -65,10 +65,10 @@ Du har disse muligheder for at administrere deltagere:
     <li>Opgavestatus</li>
     <li>Kommunikationslog</li>
   </ul>
-</details>
+</details><br><br>
 
 <details>
-  <summary><strong>Trin 3: Rediger deltager</strong></summary>
+  <summary><strong>Trin 3: Rediger deltager</strong></summary><br>
 
   <details>
     <summary><strong>Trin 3.1: Rediger deltager</strong></summary>
@@ -82,7 +82,7 @@ Du har disse muligheder for at administrere deltagere:
     <img src="../../images/img_deltagere/deltager-3-opdater.PNG" alt="Opdatering af information"><br>
   </details>
 
-</details>
+</details><br><br>
 
 <details>
   <summary><strong>Trin 4: Tilføj kommentar til deltager</strong></summary>
@@ -99,10 +99,10 @@ Du har disse muligheder for at administrere deltagere:
 
   <img src="../../images/img_deltagere/deltager-4-kommentar.png" alt="Tilføj kommentar"><br>
 
-</details>
+</details><br><br>
 
 <details>
-  <summary><strong>Trin 5: Slet deltager</strong></summary>
+  <summary><strong>Trin 5: Slet deltager</strong></summary><br>
 
   <details>
     <summary><strong>Trin 5.1: Slet deltager</strong></summary>
@@ -116,10 +116,10 @@ Du har disse muligheder for at administrere deltagere:
     <img src="../../images/img_deltagere/deltager-5-slet-knap.PNG" alt="Slet"><br>
   </details>
 
-</details>
+</details><br><br>
 
 <details>
-  <summary><strong>Trin 6: Slet flere eller alle deltagere</strong></summary>
+  <summary><strong>Trin 6: Slet flere eller alle deltagere</strong></summary><br>
 
   <details>
     <summary><strong>Trin 6.1: Marker flere eller alle</strong></summary>
