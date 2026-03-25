@@ -41,7 +41,7 @@ Du har disse muligheder for at administrere deltagere:
       <li>Specialkost (kan godt have flere valg af specialkost)</li>
     </ul>
     <p>Når disse er udfyldt, skal du trykke OK og deltageren er nu oprettet.</p>
-    <img src="../../images/img_deltagere/deltager-anden-information.PNG" alt="Tilføj anden information"><br>
+    <img src="../../images/img_deltagere/deltager-anden-information.PNG" alt="Tilføj anden information">
   </details>
 
 </details><br>
@@ -79,7 +79,7 @@ Du har disse muligheder for at administrere deltagere:
   <details>
     <summary><strong>Trin 3.2: Opdatering af information</strong></summary>
     <p>Når du har lavet de ønskede ændringer, skal du trykke på OK knappen.</p>
-    <img src="../../images/img_deltagere/deltager-3-opdater.PNG" alt="Opdatering af information"><br>
+    <img src="../../images/img_deltagere/deltager-3-opdater.PNG" alt="Opdatering af information">
   </details>
 
 </details><br>
@@ -113,7 +113,7 @@ Du har disse muligheder for at administrere deltagere:
   <details>
     <summary><strong>Trin 5.2: Slet</strong></summary>
     <p>Tryk på Slet knappen under Anden information.</p>
-    <img src="../../images/img_deltagere/deltager-5-slet-knap.PNG" alt="Slet"><br>
+    <img src="../../images/img_deltagere/deltager-5-slet-knap.PNG" alt="Slet">
   </details>
 
 </details><br>
