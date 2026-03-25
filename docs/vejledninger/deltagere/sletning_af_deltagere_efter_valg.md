@@ -13,8 +13,8 @@ indhentet samtykke fra deltagerne til at opbevare det. Og selv her kan der være
 
 Den bagvedliggende juridiske vurdering kan findes herunder. Bemærk at jeres egen DPO kan have en anden vurdering.
 
-  * Mere om [samtykkeerklæring i OS2valghalla](../samtykkeerklaering.md)
-  * Mere om [oplysningserklæring i OS2valghalla](../oplysningserklaering.md)
+  * Mere om [samtykkeerklæring i OS2valghalla](../samtykkeerklaering)
+  * Mere om [oplysningserklæring i OS2valghalla](../oplysningserklaering)
   * Se hvordan du nemmest sletter alle deltagerne på [trin 6 i vejledningen](deltagere)
 
 
