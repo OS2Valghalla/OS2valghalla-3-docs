@@ -6,7 +6,6 @@ has_toc: true
 nav_order: 2
 ---
 
-# Forklaring
-Under menupunktet 'Deltagere' finder du en liste over alle oprettede deltagere i OS2valghalla. Listen indeholder alle deltagere på tværs af alle valg. Visningen er altså ikke afgrænset til det valg, du aktivt arbejder med.
+# Dokumenter i dokumentsamlingen
 
-Du kan med fordel bruge søgefunktion og filterfunktion til at navigere i deltagerlisten.
+Her kan du finde vejledninger relateret til deltagere i den administrative hjemmeside i OS2valghalla.
