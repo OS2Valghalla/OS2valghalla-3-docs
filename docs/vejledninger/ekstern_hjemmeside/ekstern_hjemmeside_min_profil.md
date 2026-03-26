@@ -15,7 +15,7 @@ Muligheden for at slette sin egen profil gælder kun, så længe låseperioden i
   <summary><strong>Trin 1: Find 'Min profil'</strong></summary>
   <p>Når en deltager er logget ind på den eksterne hjemmeside, bliver menupunktet 'Min profil' synligt.</p>
   <img src="../../images/img_ekstern_hjemmeside/eks-hjemmeside-min-profil.png" alt="Min profil">
-</details>
+</details><br>
 
 <details>
   <summary><strong>Trin 2: Redigér oplysninger</strong></summary>
@@ -30,7 +30,7 @@ Muligheden for at slette sin egen profil gælder kun, så længe låseperioden i
       <img src="../../images/img_ekstern_hjemmeside/eks-hjemmeside-min-profil-rediger.png" alt="Rediger mine oplysninger">
     </li>
   </ol>
-</details>
+</details>br
 
 <details>
   <summary><strong>Trin 3: Slet profil</strong></summary>
