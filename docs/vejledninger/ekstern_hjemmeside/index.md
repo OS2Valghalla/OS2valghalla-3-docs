@@ -8,18 +8,6 @@ nav_order: 4
 
 Den eksterne hjemmeside er den del af OS2valghalla, som borgere og andre deltagere i valget kan tilgå. Den aktiveres, når der er et aktivt valg. Hvis der ikke er et aktivt valg mødes deltagerne af en besked om, at kommunen ikke planlægger valg for tiden.
 
-# Forklaring af menupunkter og funktionalitet
-- [Opgaver](../opgaver/index)
-- [Mine opgaver](ekstern_hjemmeside_mine_opgaver)
-- [Min profil](ekstern_hjemmeside_min_profil)
-- [Mit team](ekstern_hjemmeside_mit_team)
-- [Opgavefordeling](ekstern_hjemmeside_opgavefordeling)
-- [Mit arbejdssted](ekstern_hjemmeside_mit_arbejdssted)
-
-# Vejledninger til deltagere
-- [Vejledning til partisekretærer](vejledning_til_partisekretaerer)
-- [Vejledning til tilmelding](vejledning_til_tilmelding)
-
 # Login
 Deltagere skal logge ind med MitID (medarbejdere skal benytte privat MitID). Der er ingen undtagelser, da vi på den måde får høj sikkerhed og vished for deltagernes identitet. Via MitID-login kan der desuden skaffes CPR-nummer, som benyttes til at hente oplysninger fra CPR-registret og til at sende Digital Post.
 
