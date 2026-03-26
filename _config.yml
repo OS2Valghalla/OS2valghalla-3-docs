@@ -19,5 +19,6 @@ defaults:
 #color_scheme: custom
 
 markdown: kramdown
+
 kramdown:
   auto_ids: true
