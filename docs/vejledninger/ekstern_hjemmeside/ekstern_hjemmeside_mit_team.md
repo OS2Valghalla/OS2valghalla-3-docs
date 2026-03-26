@@ -21,7 +21,7 @@ Den teamansvarlige kan desuden fjerne en deltager fra et team. Dette er dog blok
   <p>Under Mit team kan du kopiere et link, som benyttes til at invitere nye deltagere til at blive medlem af det pågældende team.</p>
   <p>Når de benytter det til at oprette sig i systemet, kan de melde sig til teamets ikke-betroede opgaver.</p>
   <p>Når medlemmerne klikker på linket, ser de en invitation til at blive medlem af teamet. Herefter skal de logge ind med MitID og oprette en profil. Derefter kan de se de opgaver, der er ledige. Herefter kan de trykke tilmeld på den opgave, de gerne vil tilmelde sig.</p>
-  <img src="../../images/img_ekstern_hjemmeside/eks-hjemmeside-mit-team-inviter.png" alt="Inviter deltagere til teamet">
+  <img src="../../images/img_ekstern_hjemmeside/eks-hjemmeside-mit-team-inviter.png" alt="Inviter deltagere til teamet"><br>
 
   <details>
     <summary><strong>Trin 2.1: Forskellige opgavetyper</strong></summary>
