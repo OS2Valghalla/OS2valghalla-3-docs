@@ -29,7 +29,7 @@ teammedlemmer, så rediger opgavetypen, så den ikke er betroet.
   <summary><strong>Trin 2: Filtrér på opgaver</strong></summary>
   <p>Ved at benytte filtrene er det muligt at afgrænse til et udvalg af de tilgængelige opgaver.</p>
   <img src="../../images/img_ekstern_hjemmeside/eks-hjemmeside-opgaver-filtrer.png" alt="Filtrer på opgaver">
-</details>br
+</details><br>
 
 <details>
   <summary><strong>Trin 3: Se mere information</strong></summary>
