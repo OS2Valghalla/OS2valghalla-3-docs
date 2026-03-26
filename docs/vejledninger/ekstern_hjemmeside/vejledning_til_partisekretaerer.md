@@ -13,7 +13,7 @@ På denne side kan du finde vejledninger til inspiration.
 
 Udgangspunket er, at en partiansvarlig opretter sig som teammedlem via et invitationslink til et team. Derefter tildeles den partiansvarlige rettigheden som teamansvarlig ([se vejledning](../oprettelse_af_partisekretaerer)).
 
-[notfound]
+
 
 Filen er i Word-format, så du har mulighed for at rette den til, så den passer til jeres arbejdsgange.
 
@@ -21,4 +21,3 @@ Filen er i Word-format, så du har mulighed for at rette den til, så den passer
 
 Udgangspunket er, at en partiansvarlig har sendt sit CPR-nummer til kommunen og er blevet oprettet som deltager og har fået rettigheden som teamansvarlig ([se vejledning](../oprettelse_af_partisekretaerer)).
 
-[notfound]
