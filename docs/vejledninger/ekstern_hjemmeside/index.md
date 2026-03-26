@@ -6,6 +6,9 @@ has_toc: true
 nav_order: 4
 ---
 
+{:toc}
+
+
 # Forklaring af menupunkter og funktionalitet
 - Opgaver
 - Mine opgaver
