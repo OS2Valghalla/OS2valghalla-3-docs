@@ -26,7 +26,7 @@ Muligheden for at slette sin egen profil gælder kun, så længe låseperioden i
     <li>Rediger e-mailadresse i feltet</li>
     <li>Afkryds de muligheder for specialkost, som kommunen tilbyder</li>
     <li>Klik på Gem-knappen
-      <br>
+      <br><br>
       <img src="../../images/img_ekstern_hjemmeside/eks-hjemmeside-min-profil-rediger.png" alt="Rediger mine oplysninger">
     </li>
   </ol>
@@ -44,7 +44,7 @@ Muligheden for at slette sin egen profil gælder kun, så længe låseperioden i
     </li>
     <li>Din profil bliver nu slettet og du logges ud af systemet
       <p>Hvis låseperioden er aktiv, vil deltagere ikke længere selv kunne slette deres profil. De får vist besked om dette inkl. kontaktoplysninger, så de kan henvende sig til Valgsekretariatet.</p>
-      <img src="../../images/img_ekstern_hjemmeside/eks-hjemmeside-min-profil-slet1.png" alt="Slet min profil"><br>
+      <img src="../../images/img_ekstern_hjemmeside/eks-hjemmeside-min-profil-slet1.png" alt="Slet min profil"><br><br>
       <img src="../../images/img_ekstern_hjemmeside/eks-hjemmeside-min-profil-slet2.png" alt="Slet min profil bekræftelse">
     </li>
   </ol>
