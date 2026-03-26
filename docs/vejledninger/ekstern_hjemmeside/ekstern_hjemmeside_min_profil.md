@@ -30,7 +30,7 @@ Muligheden for at slette sin egen profil gælder kun, så længe låseperioden i
       <img src="../../images/img_ekstern_hjemmeside/eks-hjemmeside-min-profil-rediger.png" alt="Rediger mine oplysninger">
     </li>
   </ol>
-</details>br
+</details><br>
 
 <details>
   <summary><strong>Trin 3: Slet profil</strong></summary>
