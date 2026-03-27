@@ -32,15 +32,15 @@ Husk at formatere teksten, så den er webtilgængelig. Få eventuelt hjælp fra 
     <li>Klikke på Oplysningserklæring</li>
   </ol>
   <br>
-  <p>Du står nu på siden administration af oplysningserklæring.</p><br>
+  <p>Du står nu på siden administration af oplysningserklæring.</p>
   <img src="../images/img_vejledninger/oplysningserklaering-adm.png" alt="Administration - oplysningserklæring">
 </details><br>
 
 <details>
   <summary><strong>Trin 2: Rediger indhold i Oplysningserklæring</strong></summary>
-  <p>Hver kommune har typisk nogle særlige oplysninger om fx DPO, der skal indgå i kommunens oplysningserklæring.</p><br>
-  <p>Du kan derfor redigere og ændre indholdet i løsningens oplysningserklæring, så den passer til din kommune.</p><br>
-  <p>Rediger teksten og brug de muligheder for formatering, som siden indeholder, og tryk OK, når du er færdig.</p><br>
+  <p>Hver kommune har typisk nogle særlige oplysninger om fx DPO, der skal indgå i kommunens oplysningserklæring.</p>
+  <p>Du kan derfor redigere og ændre indholdet i løsningens oplysningserklæring, så den passer til din kommune.</p>
+  <p>Rediger teksten og brug de muligheder for formatering, som siden indeholder, og tryk OK, når du er færdig.</p>
   <img src="../images/img_vejledninger/oplysningserklaering-indhold.png" alt="Administration - Oplysningserklæring - rediger indhold"><br><br>
   <img src="../images/img_vejledninger/oplysningserklaering-OK.png" alt="Administration - Oplysningserklæring - gem indhold">
 </details>
