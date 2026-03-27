@@ -39,5 +39,5 @@ eller en hjemmesideansvarlig, hvis du ikke selv ved, hvad det indebærer.
     <li>Ændringer slår igennem med det samme på den eksterne hjemmeside</li>
   </ol>
   <img src="../images/img_vejledninger/forside-redigering.png" alt="Rediger indhold"><br><br>
-  <img src="../images/img_vejledninger/forside-redigering.png" alt="Ændringer slå igennem med det samme">
+  <img src="../images/img_vejledninger/valgrekruttering.png" alt="Ændringer slå igennem med det samme">
 </details>
