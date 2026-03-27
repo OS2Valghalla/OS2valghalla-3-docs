@@ -64,3 +64,40 @@ Hvis du ikke kender partisekretærernes CPR-nummer, kan du invitere dem til at o
 # Du kender partisekretærens CPR-nummer 
 
 Hvis du kender partisekretærens CPR-nummer, kan du benytte det til at oprette en deltager og derefter tildele rettigheden som teamansvarlig for det relevante team.
+
+<details>
+  <summary><strong>Trin 1: Opret en deltager</strong></summary>
+  <ol>
+    <li>Benyt CPR-nummeret til at <a href="deltagere/deltagere">oprette en deltager</a>
+      <ol>
+        <li>Ved oprettelsen skal du angive, hvilket team partisekretæren tilhører</li>
+      </ol>
+    </li>
+    <li>Gå til menupunktet Administration og klik på Teams</li>
+    <li>Rediger det team, som partisekretæren tilhører</li>
+    <li>Tilføj partisekretæren som ansvarlig</li>
+    <li>Klik på OK</li>
+    <li>Send linket til den eksterne hjemmeside til partisekretæren og giv besked om, at der efter login er mulighed for at administrere partiets opgaver</li>
+  </ol>
+  <img src="../images/img_vejledninger/oprettelse-partisekretaer-cpr.png" alt="Deltagere - Opret - CPR">
+</details><br>
+
+<details>
+  <summary><strong>Trin 2: Tildel rettighed som teamansvarlig</strong></summary>
+  <ol>
+    <li>Gå til menupunktet Administration og klik på Teams</li>
+    <li>Rediger det team, som partisekretæren tilhører</li>
+    <li>Tilføj partisekretæren som ansvarlig</li>
+    <li>Klik på OK</li>
+  </ol>
+  <img src="../images/img_vejledninger/oprettelse_partisekretaer_rettigheder.png" alt="Tildel rettigheder">
+</details><br>
+
+<details>
+  <summary><strong>Trin 3: Informér partisekretæren</strong></summary>
+  <ol>
+    <li><a href="administration/valg">Aktiver et valg</a>, så den eksterne hjemmesides funktioner aktiveres</li>
+    <li>Send linket til den eksterne hjemmeside (fx <a href="https://korsbaek.os2valghalla.dk">https://korsbaek.os2valghalla.dk</a>) til partisekretæren og giv besked om, at der efter login er mulighed for at administrere partiets opgaver</li>
+  </ol>
+  <p>Find inspiration til en <a href="ekstern_hjemmeside/vejledning_til_partisekretaerer">vejledning til partisekretærer</a>.</p>
+</details>
