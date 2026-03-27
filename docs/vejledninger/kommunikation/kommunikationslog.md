@@ -25,7 +25,7 @@ afsendt succesfuldt eller om der er fejl. Ved at klikke på beskeden kan du se d
 
   <img src="../../images/img_kommunikation/kommunikation-komm-log.PNG" alt="Kommunikation - Kommunikationslog">
 
-</details>
+</details><br>
 
 <details>
   <summary><strong>Trin 2: Brug kommunikationsloggen</strong></summary>
@@ -41,7 +41,7 @@ afsendt succesfuldt eller om der er fejl. Ved at klikke på beskeden kan du se d
 
   <p><strong>Søgefunktion</strong></p>
 
-  <img src="../../images/img_kommunikation/kommunikation-brug-log.PNG" alt="Kommunikation - Kommunikationslog - Overbliksbillede">
+  <img src="../../images/img_kommunikation/kommunikation-brug-log.PNG" alt="Kommunikation - Kommunikationslog - Overbliksbillede"><br>
 
   <details>
     <summary><strong>Trin 2.1: Overbliksbillede</strong></summary>
@@ -68,7 +68,7 @@ afsendt succesfuldt eller om der er fejl. Ved at klikke på beskeden kan du se d
 
   </details>
 
-</details>
+</details><br>
 
 <details>
   <summary><strong>Trin 3: Se detaljer om en besked</strong></summary>
