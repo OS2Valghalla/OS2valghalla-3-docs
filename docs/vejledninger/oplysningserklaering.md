@@ -12,11 +12,35 @@ Oplysningserklæringen kan også ses ved at benytte linket til privatlivspolitik
 
 Se et eksempel på "Korsbæk Kommunes" oplysningserklæring, som er baseret på Odense Kommunes
 udgave:
-Download word-fil <!-- Læg wordfil i assetsmappe -->
+[Download word-fil](../documents/Oplysningserklaering%20-%20Korsbaek%20Kommune.docx)
 
-Hvis I ønsker at bruge deltagernes personlige oplysninger til andet end afvikling af det aktuelle valg, skal I indhente deres samtykke. Dette gøres ved at aktivere [samtykkeerklæringen](samtykkeerklaering). <!-- Link til siden samtykkeerklæring-->
+Hvis I ønsker at bruge deltagernes personlige oplysninger til andet end afvikling af det aktuelle valg, skal I indhente deres samtykke. Dette gøres ved at aktivere [samtykkeerklæringen](samtykkeerklaering).
 
 # Webtilgængelighed
 Husk at formatere teksten, så den er webtilgængelig. Få eventuelt hjælp fra jeres kommunikationsafdeling eller en hjemmesideansvarlig, hvis du ikke selv ved, hvad det indebærer.
 
-------
+
+### Trin for trin
+
+<br>
+<details>
+  <summary><strong>Trin 1: Administration af Oplysningserklæring</strong></summary>
+  <p>Fra forsiden skal du:</p>
+  <ol>
+    <li>Vælge Administration i topmenuen</li>
+    <li>Klikke på Ekstern hjemmeside</li>
+    <li>Klikke på Oplysningserklæring</li>
+  </ol>
+  <br>
+  <p>Du står nu på siden administration af oplysningserklæring.</p><br>
+  <img src="../images/img_vejledninger/oplysningserklaering-adm.png" alt="Administration - oplysningserklæring">
+</details><br>
+
+<details>
+  <summary><strong>Trin 2: Rediger indhold i Oplysningserklæring</strong></summary>
+  <p>Hver kommune har typisk nogle særlige oplysninger om fx DPO, der skal indgå i kommunens oplysningserklæring.</p><br>
+  <p>Du kan derfor redigere og ændre indholdet i løsningens oplysningserklæring, så den passer til din kommune.</p><br>
+  <p>Rediger teksten og brug de muligheder for formatering, som siden indeholder, og tryk OK, når du er færdig.</p><br>
+  <img src="../images/img_vejledninger/oplysningserklaering-indhold.png" alt="Administration - Oplysningserklæring - rediger indhold"><br><br>
+  <img src="../images/img_vejledninger/oplysningserklaering-OK.png" alt="Administration - Oplysningserklæring - gem indhold">
+</details>
