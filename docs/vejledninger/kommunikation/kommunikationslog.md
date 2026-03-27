@@ -41,7 +41,7 @@ afsendt succesfuldt eller om der er fejl. Ved at klikke på beskeden kan du se d
 
   <p><strong>Søgefunktion</strong></p>
 
-  <img src="../../images/img_kommunikation/kommunikation-brug-log.PNG" alt="Kommunikation - Kommunikationslog - Overbliksbillede"><br>
+  <img src="../../images/img_kommunikation/kommunikation-brug-log.PNG" alt="Kommunikation - Kommunikationslog - Overbliksbillede"><br><br>
 
   <details>
     <summary><strong>Trin 2.1: Overbliksbillede</strong></summary>
@@ -53,7 +53,7 @@ afsendt succesfuldt eller om der er fejl. Ved at klikke på beskeden kan du se d
     <p><strong>Modtager:</strong> Viser hvem der er modtager af henvendelsen. Ved klik tilgår du deltagerens profil.</p>
     <p><strong>Besked:</strong> Viser titlen på forsendelsen.</p>
     <p><strong>Oprettet den:</strong> Dato og klokkeslet for oprettelsen.</p>
-    <p><strong>Status:</strong> Viser om forsendelsen er lykkes, fejlet eller sat i kø. Fejlede vises med rød markering.</p>
+    <p><strong>Status:</strong> Viser om forsendelsen er lykkes, fejlet eller sat i kø. Fejlede vises med rød markering.</p><br>
 
   </details>
 
@@ -85,8 +85,8 @@ afsendt succesfuldt eller om der er fejl. Ved at klikke på beskeden kan du se d
 
   <p><strong>Eksempler på fejlbeskeder:</strong></p>
   <ul>
-    <li>Deltager kan ikke modtage Digital Post: <code>"Message":"Participant does not have Digital Post"</code></li>
-    <li>Der er ikke oprettet en mailadresse på deltageren: <code>"Message":"Participant does not have email yet"</code></li>
+    <li>Deltager kan ikke modtage Digital Post: <code style="color: pink;">"Message":"Participant does not have Digital Post"</code></li>
+    <li>Der er ikke oprettet en mailadresse på deltageren: <code style="color: pink;">"Message":"Participant does not have email yet"</code></li>
   </ul>
 
   <img src="../../images/img_kommunikation/kommunikation-detaljer2.png" alt="Eksempler på fejlbeskeder">
