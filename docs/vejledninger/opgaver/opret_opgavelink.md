@@ -19,6 +19,9 @@ Det kunne også være et link til alle opgaver tildelt teamet "Frivillige", som 
 deles
 - Når en opgave er tildelt en deltager, forsvinder den fra oversigten på linket
 
+### Trin for trin
+
+<br>
 <details>
   <summary><strong>Trin 1: Opret opgavelink</strong></summary>
   <p>Fra forsiden skal du:</p>
