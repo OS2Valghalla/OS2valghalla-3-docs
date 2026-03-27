@@ -17,7 +17,7 @@ Find optagelser af undervisningen her.
   
 2\. Særligt om automatiske notifikationer og beskedskabeloner
 
-[Download slides - del 1](https://boks.os2.eu/s/QywYio7TsX2azgC)
+[Download slides - del 1](https://boks.os2.eu/s/zLWrwQD9nMZYkza)
 
 ## Del 2: Oprettelse af et valg og fordeling af opgaver
 
@@ -33,7 +33,7 @@ Find optagelser af undervisningen her.
   
 6\. Teamansvarliges brug af den eksterne hjemmeside til opgavefordeling
 
-[Download slides - del 2](https://boks.os2.eu/s/EoWJJe6erioYp7N)
+[Download slides - del 2](https://boks.os2.eu/s/Eg5e68HaiH7AqH9)
 
 ## Del 3: Den eksterne hjemmeside og andre funktionaliteter
 
@@ -53,7 +53,9 @@ Find optagelser af undervisningen her.
   
 8\. Opsætning af brevstemmemodtagelse
 
-[Download slides - del 3](https://boks.os2.eu/s/F5ceX4NA3qG4HW5)
+[Download slides - del 3](https://boks.os2.eu/s/7LfKdyJfpcg6H9d)
 
 <!-- Find ud af om Vimeo kan lægges ind på en markdown, om der skal laves en html-passage eller om der kun kan linkes til nextcloud i et delt link (husk at lade linket have lang løbetid)
 På et tidspunkt vil videoerne være forældede, aftal med KG -->
+
+<!-- Kan der lægges Vimeo på markdown? Hvor ligger videoerne nu? De afspilles ikke fra nextcloud, men det fremgår ikke af markdown-filen -->
