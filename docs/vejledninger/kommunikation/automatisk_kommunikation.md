@@ -13,7 +13,9 @@ Der sendes ikke automatiske beskeder fra et deaktiveret valg.
 
 På denne side kan du se en oversigt over standardbeskederne samt forklaring af, hvornår de sendes.
 
-Oversigt over standardbeskeder  Standardbesked | Forklaring | Standard beskedskabelon  
+### Oversigt over standardbeskeder
+
+ Standardbesked | Forklaring | Standard beskedskabelon  
 ---|---|---  
 Bekræftelse på tilmelding |  Sendes hvis deltager tilmeldes til en opgave. Det kan både være deltageren selv, der tilmelder sig en opgave eller en administrator, der godkender en invitation til en opgave i den administrative hjemmeside på vegne af en deltager. | Standard - bekræftelse på tilmelding  
 Bekræftelse på afmelding |  Sendes hvis deltager selv framelder sig fra en opgave på den eksterne hjemmeside. | Standard - bekræftelse på afmelding  
