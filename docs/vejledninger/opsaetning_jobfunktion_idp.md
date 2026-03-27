@@ -21,8 +21,7 @@ Den skal tilknyttes systemet OS2valghalla og brugersystemrollen '**Administrator
 
 Der skal ikke tilknyttes dataafgrænsning via KLE-numre eller lignende.
 
-Hvis du ikke er bekendt med opsætning af jobfunktionsroller, har KOMBIT lavet en [Brugervejledning til Administrationsmodulerne for  
-myndigheder](https://digitaliseringskataloget.dk/sites/default/files/integration-files/081120231130/Brugervejledning%20til%20Administrationsmodulerne%20for%20myndigheder.pdf).
+Hvis du ikke er bekendt med opsætning af jobfunktionsroller, har KOMBIT lavet en [Brugervejledning til Administrationsmodulerne for myndigheder](https://digitaliseringskataloget.dk/sites/default/files/integration-files/081120231130/Brugervejledning%20til%20Administrationsmodulerne%20for%20myndigheder.pdf).
 
 Find vejledning til jobfunktionsroller i afsnit 7.10
 
