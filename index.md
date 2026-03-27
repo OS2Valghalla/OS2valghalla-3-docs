@@ -17,13 +17,13 @@ Find mere information om OS2valghalla, og hvordan man tilslutter sig samarbejdet
 
 ## Udvalgte vejledninger
 
-- [Definitioner af centrale begreber](vejledninger/definitioner)
-- Registrering af OS2valghalla som NemLog-in system
-- Opsætning af jobfunktionsrolle og lokal IdP
-- Grundlæggende opsætning
-- Oprettelse af et nyt valg
-- Lister
-- Eksporter deltagere fra Valghalla til Valg Central
+- [Definitioner af centrale begreber](docs/vejledninger/definitioner)
+- [Registrering af OS2valghalla som NemLog-in system](docs/vejledninger/registrering_nemlogin_system)
+- [Opsætning af jobfunktionsrolle og lokal IdP](docs/vejledninger/opsaetning_jobfunktion_idp)
+- [Grundlæggende opsætning](docs/vejledninger/grundlaeggende_opsaetning)
+- [Oprettelse af et nyt valg](docs/vejledninger/oprettelse_af_nyt_valg)
+- [Lister](docs/vejledninger/lister)
+- [Eksporter deltagere fra Valghalla til Valg Central](docs/vejledninger/deltagere/eksporter_deltagere_fra_valghalla)
 
 <!--
 Sådan laves sektioner - overvej, hvor de skal gøre sig gældende
