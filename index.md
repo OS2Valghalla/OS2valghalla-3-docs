@@ -16,7 +16,14 @@ Find mere information om OS2valghalla, og hvordan man tilslutter sig samarbejdet
 
 
 ## Udvalgte vejledninger
-Her kommer links til en liste med udvalgte vejledninger.
+
+- [Definitioner af centrale begreber](vejledninger/definitioner)
+- Registrering af OS2valghalla som NemLog-in system
+- Opsætning af jobfunktionsrolle og lokal IdP
+- Grundlæggende opsætning
+- Oprettelse af et nyt valg
+- Lister
+- Eksporter deltagere fra Valghalla til Valg Central
 
 <!--
 Sådan laves sektioner - overvej, hvor de skal gøre sig gældende
