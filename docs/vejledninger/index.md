@@ -7,13 +7,15 @@ has_children: true
 
 <div style="background:#e4dfe8; padding:10px; border-radius:6px;">
 <h1><strong>Vejledninger</strong></h1>
-Her ligger udvalgte og mest populære vejledninger til brugen af OS2valghalla.<br><br>
+<p>Under Vejledninger ligger følgende dokumentsamlinger:</p>
+<ul>
+  <li>Administration</li>
+  <li>Deltagere</li>
+  <li>Ekstern hjemmeside</li>
+  <li>Kommunikation</li>
+  <li>Opgaver</li>
+</ul>
+
+<p>Herudover er der en række selvstændige vejledninger, som blandt andet er en hjælp til opsætning, oprettelse og registrering mv.</p>
+<p>Alle vejledninger findes i menuen til venstre</p>
 </div>
-
-[Viden Valghalla](https://viden.os2valghalla.dk/)
-
-<!--
-Denne tekst
-kan fylde flere linjer
-og vises ikke i den færdige README
--->
