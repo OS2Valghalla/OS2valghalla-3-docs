@@ -85,8 +85,8 @@ afsendt succesfuldt eller om der er fejl. Ved at klikke på beskeden kan du se d
 
   <p><strong>Eksempler på fejlbeskeder:</strong></p>
   <ul>
-    <li>Deltager kan ikke modtage Digital Post: <code style="color: pink;">"Message":"Participant does not have Digital Post"</code></li>
-    <li>Der er ikke oprettet en mailadresse på deltageren: <code style="color: pink;">"Message":"Participant does not have email yet"</code></li>
+    <li>Deltager kan ikke modtage Digital Post: <br><code style="color: #f5428a;">"Message":"Participant does not have Digital Post"</code></li>
+    <li>Der er ikke oprettet en mailadresse på deltageren: <br><code style="color: #f5428a;">"Message":"Participant does not have email yet"</code></li>
   </ul>
 
   <img src="../../images/img_kommunikation/kommunikation-detaljer2.png" alt="Eksempler på fejlbeskeder">
