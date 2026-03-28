@@ -17,5 +17,5 @@ has_children: true
 </ul>
 
 <p>Herudover er der en række selvstændige vejledninger, som blandt andet er en hjælp til opsætning, oprettelse og registrering mv.</p>
-<p>Alle vejledninger findes i menuen til venstre</p>
+<p>Alle vejledninger findes i menuen under Vejledninger.</p>
 </div>
