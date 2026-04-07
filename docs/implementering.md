@@ -58,7 +58,6 @@ Hvis I benytter [OS2kravmotor](https://www.os2kravmotor.dk/) til at få svar på
 
 # Vejledninger til opsætning
 
-**Link kommer, når vejledninger er lagt ind**
-- Registrering af NemLog-in system
-- Godkendelse af serviceaftale i Fælleskommunalt Administrationsmodul
-- Opsætning af jobfunktionsrolle og IdP
+- [Registrering af NemLog-in system](vejledninger/registrering_nemlogin_system)
+- [Godkendelse af serviceaftale i Fælleskommunalt Administrationsmodul](vejledninger/godkendelse_serviceaftale_fka)
+- [Opsætning af jobfunktionsrolle og IdP](vejledninger/opsaetning_jobfunktion_idp)
